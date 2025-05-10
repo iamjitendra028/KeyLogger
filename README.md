@@ -13,7 +13,7 @@ gger on your local machine, follow the steps below:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/iamjitendra028/KeyLogger.git
+https://github.com/iamjitendra028/KeyLogger.git
 cd KeyLogger
 ```
 2. Install the dependencies:
